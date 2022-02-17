@@ -9,4 +9,4 @@ Technologies used -
   Javascript,
   HTML,
   CSS,
-  Bootstrap,
+  Bootstrap
